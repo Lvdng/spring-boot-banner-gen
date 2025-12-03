@@ -1,0 +1,5 @@
+{
+  "name": "Spring Boot Banner Gen",
+  "description": "Convert images into ASCII art suitable for Spring Boot banner.txt files, featuring classic algorithm conversion and AI-powered enhancements.",
+  "requestFramePermissions": []
+}
